@@ -1,4 +1,4 @@
-Gimport random
+import random
 
 print('Your Password is: ')
 
