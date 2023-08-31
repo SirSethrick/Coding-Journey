@@ -1,8 +1,8 @@
-import random
+Gimport random
 
 print('Your Password is: ')
 
-chars = 'abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()?'
+chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()?'
 
 password = ''
 for x in range(16):
